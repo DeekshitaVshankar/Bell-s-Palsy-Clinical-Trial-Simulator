@@ -26,7 +26,7 @@ Rather than building flashy visuals, the aim is to provide clarity, audit-ready 
 
 *Use Case Overview*
 
-This dashboard mimics real client scenarios, helping internal teams or external clients monitor clinical performance, review patient data, and ensure regulatory compliance.
+This dashboard mimics real client scenarios, helping internal teams or external clients monitor clinical performance, review patient data, and ensure regulatory compliance. Filters are added for easy navigation as well.
 
 
 ![Image](https://github.com/user-attachments/assets/43948b03-0d9c-4760-813f-0861d1d726c6)
